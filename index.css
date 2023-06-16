@@ -29,7 +29,7 @@
 
 .glow-on-hover:before {
     content: '';
-    background: linear-gradient(45deg, #0e33db, #ffffff, #f82222);
+    background: linear-gradient(45deg, , #ffffff, #0e33db, #ffffff, #f82222, #ffffff);
     position: absolute;
     top: -2px;
     left:-2px;
